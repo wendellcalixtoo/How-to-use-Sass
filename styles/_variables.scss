@@ -1,0 +1,10 @@
+//Definição de variaveis
+$primary-color: yellow;
+
+//Criação de maps
+// Funciona como uma coleção de chaves e valores dentro do Sass
+$font-weight: (
+    "regular": 400,
+    "medium": 500,
+    "bold": 700
+);
